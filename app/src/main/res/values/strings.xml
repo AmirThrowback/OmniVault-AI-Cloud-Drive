@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">OmniVault</string>
+    <string name="tagline">Smart Personal AI Cloud Drive &amp; Vault</string>
+    <string name="nav_drive">My Drive</string>
+    <string name="nav_assistant">AI Assistant</string>
+    <string name="nav_architect">Cloud Arch</string>
+    <string name="nav_vault">Encrypted Vault</string>
+
+    <string name="search_placeholder">Search files, OCR text, or tags…</string>
+    <string name="storage_used_label">Storage Used</string>
+    <string name="storage_limit_label">of 15 GB Free Tier</string>
+    <string name="filter_all">All</string>
+    <string name="filter_docs">Documents</string>
+    <string name="filter_images">Photos</string>
+    <string name="filter_notes">Notes</string>
+    <string name="filter_vault">Vault Locked</string>
+
+    <string name="action_upload">Upload File</string>
+    <string name="action_new_note">New Secure Note</string>
+    <string name="action_scan_doc">AI OCR Scan</string>
+    <string name="action_unlock_vault">Unlock Vault</string>
+    <string name="action_lock_vault">Lock Vault</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+
+    <string name="vault_locked_title">Encrypted Vault Locked</string>
+    <string name="vault_locked_desc">Enter your 4-digit Master PIN to unlock client-encrypted items.</string>
+    <string name="vault_pin_placeholder">Enter 4-digit PIN</string>
+    <string name="vault_default_pin_hint">Default demo PIN is 1234</string>
+    <string name="vault_incorrect_pin">Incorrect PIN. Please try again.</string>
+
+    <string name="ai_vision_title">AI Visual &amp; Document Intelligence</string>
+    <string name="ai_ocr_text_label">Extracted OCR Text</string>
+    <string name="ai_doc_type_label">Document Type</string>
+    <string name="ai_summary_label">Summary</string>
+    <string name="ai_safety_label">Security &amp; Vault Evaluation</string>
+    <string name="ai_tts_listen">Listen with TTS</string>
+    <string name="ai_tts_speaking">Playing Audio…</string>
+    <string name="ai_tts_stop">Stop Audio</string>
+
+    <string name="chat_welcome_title">OmniVault AI Cloud Consultant</string>
+    <string name="chat_welcome_desc">Ask how to design, host, and run personal and production-grade online cloud drives (Cloudflare R2, AWS S3, Supabase, Nextcloud, WebCrypto zero-knowledge encryption).</string>
+    <string name="chat_input_placeholder">Ask about cloud storage, drive files, or architecture…</string>
+    <string name="chat_send">Send</string>
+</resources>

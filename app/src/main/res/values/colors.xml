@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="omnivault_background">#020617</color>
+    <color name="omnivault_surface">#0F172A</color>
+    <color name="omnivault_surface_variant">#1E293B</color>
+    <color name="omnivault_primary">#38BDF8</color>
+    <color name="omnivault_primary_variant">#0284C7</color>
+    <color name="omnivault_secondary">#818CF8</color>
+    <color name="omnivault_accent_purple">#A855F7</color>
+    <color name="omnivault_accent_emerald">#10B981</color>
+    <color name="omnivault_accent_amber">#F59E0B</color>
+    <color name="omnivault_accent_rose">#F43F5E</color>
+    <color name="omnivault_on_background">#F8FAFC</color>
+    <color name="omnivault_on_surface">#E2E8F0</color>
+</resources>

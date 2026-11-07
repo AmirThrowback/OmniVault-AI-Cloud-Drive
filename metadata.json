@@ -1,0 +1,8 @@
+{
+  "name": "OmniVault",
+  "description": "Smart personal cloud drive to securely organize data, analyze images with Gemini 4 Argon, listen to files with Gemini 3.8 Flash TTS, and explore custom cloud storage architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
